@@ -1,0 +1,10 @@
+.main-container{
+    background-color: #F8F8FA;
+    height: 24vw;
+}
+.container1{
+    display: grid;
+    padding: 119px;
+    grid-template-columns: auto auto;
+}
+
